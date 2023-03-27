@@ -108,12 +108,14 @@ h6 {
   margin-top: 1px;
 }
 .numbers {
-  font-size: 12px;
+  font-size: 10px;
   color: #4e5150;
+  font-weight: 600;
 }
 .statsName {
-  font-size: 10px;
+  font-size: 8px;
   color: #bdbdbd;
+  font-weight: 600;
 }
 
 .statsContainer {
@@ -125,13 +127,13 @@ h6 {
   display: flex;
   flex-direction: column;
   background-color: #e5e5e5;
-  height: 50px;
-  width: 70px;
+  height: 40px;
+  width: 60px;
 
   justify-content: center;
   align-items: center;
-  border-radius: 8px;
-  line-height: 1rem;
+  border-radius: 6px;
+  line-height: 0.8rem;
 }
 
 .galleryContainer {
